@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\Logitpe21\Week13-test\ülesanne_5\bin\Debug\netcoreapp3.1\ülesanne_5.exe
+C:\Users\opilane\source\repos\Logitpe21\Week13-test\ülesanne_5\bin\Debug\netcoreapp3.1\ülesanne_5.deps.json
+C:\Users\opilane\source\repos\Logitpe21\Week13-test\ülesanne_5\bin\Debug\netcoreapp3.1\ülesanne_5.runtimeconfig.json
+C:\Users\opilane\source\repos\Logitpe21\Week13-test\ülesanne_5\bin\Debug\netcoreapp3.1\ülesanne_5.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Logitpe21\Week13-test\ülesanne_5\bin\Debug\netcoreapp3.1\ülesanne_5.dll
+C:\Users\opilane\source\repos\Logitpe21\Week13-test\ülesanne_5\bin\Debug\netcoreapp3.1\ülesanne_5.pdb
+C:\Users\opilane\source\repos\Logitpe21\Week13-test\ülesanne_5\obj\Debug\netcoreapp3.1\ülesanne_5.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Logitpe21\Week13-test\ülesanne_5\obj\Debug\netcoreapp3.1\ülesanne_5.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Logitpe21\Week13-test\ülesanne_5\obj\Debug\netcoreapp3.1\ülesanne_5.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Logitpe21\Week13-test\ülesanne_5\obj\Debug\netcoreapp3.1\ülesanne_5.dll
+C:\Users\opilane\source\repos\Logitpe21\Week13-test\ülesanne_5\obj\Debug\netcoreapp3.1\ülesanne_5.pdb
+C:\Users\opilane\source\repos\Logitpe21\Week13-test\ülesanne_5\obj\Debug\netcoreapp3.1\ülesanne_5.genruntimeconfig.cache
